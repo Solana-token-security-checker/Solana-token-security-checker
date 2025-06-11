@@ -117,3 +117,5 @@ Use command-line arguments to utilize and benefit from SolanaChecker’s key sec
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update: Fixed broken link, now reachable
